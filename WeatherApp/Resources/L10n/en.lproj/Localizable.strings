@@ -1,0 +1,18 @@
+// General
+
+"weatherApp" = "Weather App";
+"search" = "Search";
+"ok" = "Ok";
+"retry" = "Retry";
+
+
+// Home
+
+"noLocationsHaveBeenFound" = "No locations have been found";
+"country" = "Country";
+
+// Errors
+
+"Error" = "Error";
+"noInternetConnection" = "No internet connection. Please try again";
+"unknownErrorHasOccured" = "An unknown error has occured. Please try again";

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390917217866-1upv72egp8ikb9g78bu37phq5rrup1ae.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390917217866-1upv72egp8ikb9g78bu37phq5rrup1ae</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0i4NH8Nv3SAqe9E7D6QP7MchX8y7argI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390917217866</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>korzen.karol.WeatherApp</string>
+	<key>PROJECT_ID</key>
+	<string>weatherapp-11229</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weatherapp-11229.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390917217866:ios:be25dbdf109a310cc090b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://weatherapp-11229-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
